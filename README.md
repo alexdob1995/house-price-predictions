@@ -147,7 +147,7 @@ Unfortunatly, I didn't managed to train a decent machine and I'll discuss the re
 
 #### Pipeline
 
-![Pipeline](/Trained_Model/images/pipeline.png)
+![Pipeline](/images/pipeline.png)
 
 The flowchart above implemented by the code below and run several times with different kernels and different splits.
 
