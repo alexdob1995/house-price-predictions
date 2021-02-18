@@ -7,7 +7,7 @@ After completing some courses online, I got the feeling that I have enough knowl
 As a beginning, I decided to try and train a classic SVM (support vector machine) model for price predictions and to spice it up I also decided to gather the Data for training by myself from legit site with real data about housing transactions that already been made in Israel.
 
 This project includes 3 main phases:
-1. Data gathering - An explanation about how I built an web-scraper and saved aroung 60000 examples.
+1. Data gathering - An explanation about how I built a web-scraper and saved aroung 60000 examples.
 2. Data processing - Preparing data for training and adding new features based on date and coordinates.
 3. Training a prediction machine and testing the results.
 
