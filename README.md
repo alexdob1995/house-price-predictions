@@ -219,7 +219,7 @@ I made a simple GUI where you can enter your household properties and see if it 
 1. Run "main.py". Make sure you have internet connection because the script send api request to get the addresss coordinates for prediction, also you should have pandas, requests and scikit-learn libraries.
 2. Enter house properties and click "Submit" button.
 ![2nd step](/images/2step.png)
-3. Don't be surprised by the predictions because the machine isn't accurate :blush: , yet some prediction are quite good.
+3. Don't be surprised by the predictions because the machine isn't accurate :blush: , although some prediction are quite good.
 ![example](/images/example.png)
 
 ## Conclusion
